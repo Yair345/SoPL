@@ -8,5 +8,3 @@ def lcm(a,b):
 
 
 print(lcm(12, 15))
-
-
